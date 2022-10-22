@@ -8,3 +8,14 @@
         int n = 2;// Element to be searched.
 
         System.out.print("The Array elements are : ");
+        
+    }
+
+    public static void main(String[] args) {
+
+        int arr[] = {5, 3, 6, 2, 1, 4};
+
+        int n = 2;// Element to be searched.
+
+        System.out.print("The Array elements are : ");
+
